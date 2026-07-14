@@ -1,0 +1,1562 @@
+C:\Desarrollos DEV daniel\nodia\_archives\🤖 PRD Asistente IA.md
+C:\Desarrollos DEV daniel\nodia\_archives\🔍 Investigación de Estilo UI.md
+C:\Desarrollos DEV daniel\nodia\_archives\📦 RESUMEN_DEL_PROYECTO_NODIA.md
+C:\Desarrollos DEV daniel\nodia\_archives\📟 PRD Interfaz de Usuario.md
+C:\Desarrollos DEV daniel\nodia\_archives\📑 ANÁLISIS_EXHAUSTIVO_SISTEMA_NODIA.md
+C:\Desarrollos DEV daniel\nodia\_archives\👁️ Visión del Software.md
+C:\Desarrollos DEV daniel\nodia\_archives\👁️ DEFINICIÓN_DEL_SISTEMA_NODIA.md
+C:\Desarrollos DEV daniel\nodia\_archives\🎯 Plan Estratégico.md
+C:\Desarrollos DEV daniel\nodia\_archives\🎮 CÓMO_FUNCIONA_NODIA.md
+C:\Desarrollos DEV daniel\nodia\_archives\🎭 PRD Sistema Narrativo.md
+C:\Desarrollos DEV daniel\nodia\_archives\🎨 Guía de Diseño Nodia.md
+C:\Desarrollos DEV daniel\nodia\_archives\🌐 PRD Infraestructura Técnica.md
+C:\Desarrollos DEV daniel\nodia\_archives\⭐ Planificador.md
+C:\Desarrollos DEV daniel\nodia\_archives\⚙️ PRD Motor Nodia.md
+C:\Desarrollos DEV daniel\nodia\stack\stack_windows.md
+C:\Desarrollos DEV daniel\nodia\stack\stack_macos.md
+C:\Desarrollos DEV daniel\nodia\stack\stack_ipados.md
+C:\Desarrollos DEV daniel\nodia\stack\PLAN_INSTALACION_ZUSTAND_VANILLA.md
+C:\Desarrollos DEV daniel\nodia\stack\PLAN_INSTALACION_SHADCN.md
+C:\Desarrollos DEV daniel\nodia\stack\PLAN_INSTALACION_GSAP_VANILLA.md
+C:\Desarrollos DEV daniel\nodia\stack\LISTA_REPOSTS_COMPATIBLES.md
+C:\Desarrollos DEV daniel\nodia\stack\CATEGORIAS_INGENIERIA_NODIA.md
+C:\Desarrollos DEV daniel\nodia\stack\analisis_stack.md
+C:\Desarrollos DEV daniel\nodia\NODIA_SYSTEM_PIPELINE.md
+C:\Desarrollos DEV daniel\nodia\NODIA_REALITY_AUDIT.md
+C:\Desarrollos DEV daniel\nodia\NODIA_MASTER_DEV_PROTOCOL_v2.md
+C:\Desarrollos DEV daniel\nodia\NODIA_LONG_EXECUTION_PLAN_v1.md
+C:\Desarrollos DEV daniel\nodia\NODIA_DEPLOYMENT_TRACKER.md
+C:\Desarrollos DEV daniel\nodia\NODIA_CORE_ROADMAP.md
+C:\Desarrollos DEV daniel\nodia\NODIA_AGENT_SYSTEM.md
+C:\Desarrollos DEV daniel\nodia\CHANGELOG_PROTOCOL_v1_to_v2.md
+C:\Desarrollos DEV daniel\nueva propuesta windows 12\investigacion_motivos_focus_nano.md
+C:\Desarrollos DEV daniel\nueva propuesta windows 12\investigacion analisis.md
+C:\Desarrollos DEV daniel\nueva propuesta windows 12\informe_iconos.md
+C:\Desarrollos DEV daniel\nueva propuesta windows 12\historia_botones_control.md
+C:\Desarrollos DEV daniel\nueva propuesta windows 12\guia_programacion_focus_nano.md
+C:\Desarrollos DEV daniel\nueva propuesta windows 12\explicacion_detalle_modo_nano.md
+C:\Desarrollos DEV daniel\nueva propuesta windows 12\especificacion_nano_mode_api.md
+C:\Desarrollos DEV daniel\nueva propuesta windows 12\analisis_relacion_y_modos_no_cotidianos.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\propuesta_inversion_julia_ai.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\propuesta_innovacion_ia_rodrigo_perez_novelo.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\propuesta_de_inversion_tech_studio.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\presupuesto_desarrollo_inicial.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\perfil_profesional_daniel_aguilar.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\investigacion_rodrigo_perez_novelo.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\inversor.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\intencion_y_contexto_proyecto.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\guion_presentacion_rodrigo.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\guia_vendedores_vivo.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\estatus_actual_rodrigo_perez_novelo_2026.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\datos_estructurados_rodrigo_perez_novelo.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\auditoria.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\arquitectura_tecnica_sistema.md
+C:\Desarrollos DEV daniel\plan de financiamiento\rodrigo perez novelo\analisis_oportunidades_rentables.md
+C:\Desarrollos DEV daniel\plan de financiamiento\PLAN_MAESTRO_INVERSION_DESARROLLO_2026.md
+C:\Desarrollos DEV daniel\plan de financiamiento\eduardo robles\propuesta_innovacion_ia_eduardo_robles.md
+C:\Desarrollos DEV daniel\plan de financiamiento\eduardo robles\perfil_profesional_daniel_aguilar.md
+C:\Desarrollos DEV daniel\plan de financiamiento\eduardo robles\investigacion_eduardo_robles.md
+C:\Desarrollos DEV daniel\plan de financiamiento\eduardo robles\inversor.md
+C:\Desarrollos DEV daniel\plan de financiamiento\eduardo robles\intencion_y_contexto_proyecto.md
+C:\Desarrollos DEV daniel\plan de financiamiento\eduardo robles\informacion_eduardo_robles.md
+C:\Desarrollos DEV daniel\plan de financiamiento\eduardo robles\estatus_actual_eduardo_robles_2026.md
+C:\Desarrollos DEV daniel\plan de financiamiento\eduardo robles\datos_estructurados_eduardo_robles.md
+C:\Desarrollos DEV daniel\plan de financiamiento\eduardo robles\arquitectura_tecnica_sistema.md
+C:\Desarrollos DEV daniel\plan de financiamiento\eduardo robles\analisis_oportunidades_rentables.md
+C:\Desarrollos DEV daniel\desarrollo web unova games studio\unovagames_dossier\50_WEBSITE_BRIEF.md
+C:\Desarrollos DEV daniel\desarrollo web unova games studio\unovagames_dossier\40_IDENTITY_AND_DESIGN.md
+C:\Desarrollos DEV daniel\desarrollo web unova games studio\unovagames_dossier\20_WEB_ASSETS.md
+C:\Desarrollos DEV daniel\desarrollo web unova games studio\unovagames_dossier\10_BRAND_AND_NAMING.md
+C:\Desarrollos DEV daniel\desarrollo web unova games studio\unovagames_dossier\00_INDEX.md
+C:\Desarrollos DEV daniel\desarrollo web unova games studio\unovagames_dossier\_excluded\30_LEGAL_AND_BUDGET.md
+C:\Desarrollos DEV daniel\desarrollo web unova games studio\unovagames_dossier\sources_full\16-1-6-__Unova_Marca_y_Estilo.md
+C:\Desarrollos DEV daniel\desarrollo web unova games studio\unovagames_dossier\README.md
+C:\Desarrollos DEV daniel\desarrollo web unova games studio\unovagames_dossier\90_SOURCES.md
+C:\Desarrollos DEV daniel\nodia-home-clone\nodia-app\public\start-lobby\README.md
+C:\Desarrollos DEV daniel\nodia-home-clone\nodia-app\public\start-lobby\NODIA_MUSA_NARRATIVA_PLAN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_ui_readapt_20260602\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_ui_ai_20260602-211337\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_ui_ai_20260602-211337\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_ui_ai_20260602-211337\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_ui_ai_20260602-211337\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_ui_ai_20260602-211337\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_ui_ai_20260602-211337\AGENTS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_u2net_default_20260602-212735\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_u2net_default_20260602-212735\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_u2net_default_20260602-212735\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_sticky_process_ui_20260602-223954\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_sticky_process_ui_20260602-223954\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_sticky_process_ui_20260602-223954\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_sticky_process_ui_20260602-223954\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_sticky_process_ui_20260602-223954\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_sticky_process_ui_20260602-223954\AGENTS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_realesrgan_despill_20260602-215450\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_realesrgan_despill_20260602-215450\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_realesrgan_despill_20260602-215450\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_realesrgan_despill_20260602-215450\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_realesrgan_despill_20260602-215450\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_realesrgan_despill_20260602-215450\AGENTS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_pipeline_roadmap_20260603-021751\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_pipeline_roadmap_20260603-021751\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_pipeline_roadmap_20260603-021751\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_pipeline_roadmap_20260603-021751\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_pipeline_roadmap_20260603-021751\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_pipeline_checklist_20260603-022206\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase8_finish_20260603-033614\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase8_finish_20260603-033614\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase8_finish_20260603-033614\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase8_finish_20260603-033614\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase8_finish_20260603-033614\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_finish_20260603-033009\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_finish_20260603-033009\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_finish_20260603-033009\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_finish_20260603-033009\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_finish_20260603-033009\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_8_20260603-022829\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_8_20260603-022829\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_8_20260603-022829\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_8_20260603-022829\image_enhancer\image_enhancer\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_8_20260603-022829\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_8_20260603-022829\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase7_8_20260603-022829\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase6_finish_20260603-032325\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase6_finish_20260603-032325\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase6_finish_20260603-032325\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase6_finish_20260603-032325\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase6_finish_20260603-032325\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_ue5_docs_20260603-024004\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_ue5_docs_20260603-024004\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_ue5_docs_20260603-024004\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_ue5_docs_20260603-024004\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_ue5_docs_20260603-024004\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_ue5_docs_20260603-024004\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_ue5_docs_20260603-024004\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\tsk docs\Running App on Localhost.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_phase6_20260603-022725\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_phase6_20260603-022725\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_phase6_20260603-022725\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_phase6_20260603-022725\image_enhancer\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_phase6_20260603-022725\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_phase6_20260603-022725\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_phase6_20260603-022725\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase5_phase6_20260603-022725\AGENTS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase4_segmentation_20260603-022651\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase4_segmentation_20260603-022651\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase4_segmentation_20260603-022651\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase4_segmentation_20260603-022651\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase4_segmentation_20260603-022651\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase4_segmentation_20260603-022651\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase4_segmentation_20260603-022651\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase3_cuda_20260603-022547\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase3_cuda_20260603-022547\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase3_cuda_20260603-022547\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase3_cuda_20260603-022547\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase3_cuda_20260603-022547\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase1_gpu_20260603-005951\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase1_gpu_20260603-005951\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase1_gpu_20260603-005951\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase1_gpu_20260603-005951\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase11_finish_20260603-035041\VIDEO_SPRINT.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase11_finish_20260603-035041\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase11_finish_20260603-035041\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase11_finish_20260603-035041\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase11_finish_20260603-035041\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase11_finish_20260603-035041\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase10_finish_20260603-034802\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase10_finish_20260603-034802\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase10_finish_20260603-034802\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase10_finish_20260603-034802\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_phase10_finish_20260603-034802\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\_❤️❤️❤️ documentos\STACK_TECNOLOGICO.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_new_interface_20260602-225354\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_new_interface_20260602-225354\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_new_interface_20260602-225354\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_new_interface_20260602-225354\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_new_interface_20260602-225354\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_new_interface_20260602-225354\AGENTS.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\_❤️❤️❤️ documentos\Octavia\Diseno_Vestuario_Octavia.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\_❤️❤️❤️ documentos\las 5 clasificaciones para task.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_modular_plan_20260603-014854\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_modular_plan_20260603-014854\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_modular_plan_20260603-014854\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_modular_plan_20260603-014854\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\VOICE_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\_❤️❤️❤️ documentos\DOCUMENTACION_INTEGRAL.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\_❤️❤️❤️ documentos\clasificaciones_de_temas_task.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\TROPHY_VISUAL_MANIFEST.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\TROPHY_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\TEST_MATRIX.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\video\TRANSCRIPCION_ANTIVILLANO.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\video\MAPA_SINCRONIA_ESTETICA.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\video\GUION_ANTIVILLANO.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_lupa_phase1_20260602\README.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\video\design.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\TECH_STACK.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\TASK_GRAPH_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\SYSTEM_CURRENT_STATE_REPORT.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_edge_refiner_20260602-214039\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_edge_refiner_20260602-214039\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_edge_refiner_20260602-214039\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_edge_refiner_20260602-214039\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\pulsar-project\src-tauri\tests\load\oha_command_examples.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_depth_normal_quality_20260603-112900\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_depth_normal_quality_20260603-112900\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_depth_normal_quality_20260603-112900\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_depth_normal_quality_20260603-112900\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_depth_normal_quality_20260603-112900\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\_❤️❤️❤️ documentos\Adaptación del Sistema de Gestión Visual de Proyectos para Personas con TDAH.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\_❤️❤️❤️ documentos\7-56-39-Modificar_personaje_original.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\_❤️❤️❤️ documentos\5_datos_categorias_proyecto.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_comfy_optional_20260603-121115\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_comfy_optional_20260603-121115\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_comfy_optional_20260603-121115\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_comfy_optional_20260603-121115\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_comfy_optional_20260603-121115\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_birefnet_feedback_20260602-213325\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_birefnet_feedback_20260602-213325\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_birefnet_feedback_20260602-213325\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\widgets\59_Focus\59_Focus.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\TECH_STACK.md
+C:\Desarrollos DEV daniel\ethyria-app\tts-server\voices\README.md
+C:\Desarrollos DEV daniel\ethyria-app\TECH_STACK.md
+C:\Desarrollos DEV daniel\Reactbite\README.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectos desarrollo\pildora de menu prinicipal\README.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\POST_ROLLBACK_TOPBAR_STATE.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\NODIA_PIPELINE_REPAIR_MASTER.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\NODIA_INTERFACE_STATE_OF_TRUTH.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\NODIA_DESIGN_SYSTEM.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\MONOLITH_RISK_TABLE.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\INFORME_INTERFAZ_POE.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\INFORME_INTERFAZ_NODOS_ARCO.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\ETHYRIA_AI_DIAGNOSTIC.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\DO_NOT_TOUCH_LIST.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\COMPONENT_OWNERSHIP_MAP.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\BASELINE_REPORT.md
+C:\Desarrollos DEV daniel\nodia-home-clone\actualizacion\docs\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\src\features\widgets\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\src\features\voice\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\src\features\trophies\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\src\features\start-context\README.md
+C:\Desarrollos DEV daniel\nodia\nodia-app\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\src\features\security\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\src\features\quick-capture\README.md
+C:\Desarrollos DEV daniel\app vivo\TECH_STACK.md
+C:\Desarrollos DEV daniel\app vivo\ROADMAP.md
+C:\Desarrollos DEV daniel\app vivo\README.md
+C:\Desarrollos DEV daniel\app vivo\QA_CHECKLIST.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\src\features\mcp\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\services\prompts\SYSTEM_PROMPT.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\SECURITY_MODEL.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\SECURITY_AUDIT.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\RUNTIME_INSPECTOR_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\REMINDER_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\QUICK_CAPTURE_SYSTEM.md
+C:\Desarrollos DEV daniel\nodia\nodia-app\public\start-lobby\README.md
+C:\Desarrollos DEV daniel\nodia\nodia-app\public\start-lobby\NODIA_MUSA_NARRATIVA_PLAN.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\PROTECTED_AREAS.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\PRIORITY_ENGINE_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\NOTIFICATION_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\MEMORY_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\MEMORY_ISLANDS_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\LAUNCHER_ACTION_REGISTRY.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\INTENT_ROUTER_WORDS.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\IMPLEMENTATION_STATUS.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\FILE_INTAKE_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\EVENT_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\ETHYRIA_ACTION_PLANNER.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\DESIGN.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\COMPONENT_RULES.md
+C:\Desarrollos DEV daniel\app vivo\PROJECT_BRIEF.md
+C:\Desarrollos DEV daniel\app vivo\PIPELINE.md
+C:\Desarrollos DEV daniel\app vivo\MASTER_AUDIT_RECOVERY.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\src\ui\README.md
+C:\Desarrollos DEV daniel\app vivo\GUARDRAILS.md
+C:\Desarrollos DEV daniel\app vivo\docs\UX_RESPONSIVE_AUDIT.md
+C:\Desarrollos DEV daniel\app vivo\docs\UI_CURRENT_STATE_AUDIT.md
+C:\Desarrollos DEV daniel\app vivo\docs\TECHNICAL_CURRENT_STATE_AUDIT.md
+C:\Desarrollos DEV daniel\app vivo\docs\RESPONSIVE_MOBILE_QA.md
+C:\Desarrollos DEV daniel\app vivo\docs\RESPONSIVE_MOBILE_AUDIT.md
+C:\Desarrollos DEV daniel\app vivo\docs\RESPONSIVE_LAYOUT_AUDIT.md
+C:\Desarrollos DEV daniel\app vivo\docs\RELEASE_NOTES_0.3.0.md
+C:\Desarrollos DEV daniel\app vivo\docs\QA_CHECKLIST.md
+C:\Desarrollos DEV daniel\app vivo\docs\PRODUCT_IMPROVEMENT_OPPORTUNITY_AUDIT.md
+C:\Desarrollos DEV daniel\app vivo\docs\PLAN_A_WIDGET_SHORTCUTS_VERIFICATION.md
+C:\Desarrollos DEV daniel\app vivo\docs\PLAN_A_REAL_DEVICE_QA.md
+C:\Desarrollos DEV daniel\app vivo\docs\PIPELINE.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_STABILITY_DATA_SAFETY_AND_UI_COMPLETION.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_SOUNDS_NEUMORPHIC_AI_CODE_REPAIR.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_SCHEDULE_AND_DEVICE_ASSETS.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_RESPONSIVE_SWEEP_AND_BUILD_WARNING_CLEANUP.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_NATIVE_CLEANUP_KOTLIN_ENTRYPOINT.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_MOBILE_RESPONSIVE_OPTIMIZATION.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_LOCAL_DEVICE_DATA_STORAGE.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_LIQUID_GLASS_SYSTEM.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_KOTLIN_NATIVE_MIGRATION_BASE.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_DOCK_ICON_CONSISTENCY.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_DEVICE_MODEL_MANAGEMENT.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_DEVICE_MEMORY_AND_HISTORY.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_DEVICE_COVER_ASSET_REPLACEMENT.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_CATALOG_SALES_INTELLIGENCE.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_CALENDAR_STATUS_COLORS_AND_CLIPPING_FIXES.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_BRAND_INTRO_AND_APP_ICON.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_2_VISUAL_UX_CORRECTIONS.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_1_STABILIZATION_REPORT.md
+C:\Desarrollos DEV daniel\app vivo\docs\PHASE_1_CRITICAL_STABILIZATION.md
+C:\Desarrollos DEV daniel\app vivo\docs\PERFORMANCE_MOTION_AND_PIGGYBANK_REFACTOR.md
+C:\Desarrollos DEV daniel\app vivo\docs\PERFORMANCE_LAYOUT_HOTFIX_AFTER_LIQUID_GLASS.md
+C:\Desarrollos DEV daniel\app vivo\docs\PERFORMANCE_AND_CODE_HEALTH_AUDIT.md
+C:\Desarrollos DEV daniel\app vivo\docs\PATCH_RULES.md
+C:\Desarrollos DEV daniel\app vivo\docs\MASTER_REVIEW_CHECKLIST.md
+C:\Desarrollos DEV daniel\app vivo\docs\LOCAL_RUNTIME_AUDIT.md
+C:\Desarrollos DEV daniel\app vivo\docs\KOTLIN_NATIVE_MIGRATION_PLAN.md
+C:\Desarrollos DEV daniel\app vivo\docs\IMPLEMENTATION_STATUS.md
+C:\Desarrollos DEV daniel\app vivo\docs\FINALIZATION_PIPELINE.md
+C:\Desarrollos DEV daniel\app vivo\docs\DEVICE_MODEL_RESEARCH.md
+C:\Desarrollos DEV daniel\app vivo\docs\DESIGN_SYSTEM_ORIGIN_VIVO.md
+C:\Desarrollos DEV daniel\app vivo\docs\DESIGN_GUARDRAILS.md
+C:\Desarrollos DEV daniel\app vivo\docs\DATA_FLOW.md
+C:\Desarrollos DEV daniel\app vivo\docs\CURRENT_STATE_FULL_AUDIT.md
+C:\Desarrollos DEV daniel\app vivo\docs\CATALOG_DEVICE_RESEARCH_AND_SALES_GUIDE.md
+C:\Desarrollos DEV daniel\app vivo\docs\CALENDAR_UX_REFINEMENT.md
+C:\Desarrollos DEV daniel\app vivo\docs\ASSETS_REQUIRED.md
+C:\Desarrollos DEV daniel\app vivo\docs\ANTIGRAVITY_PERMISSION_SETUP.md
+C:\Desarrollos DEV daniel\app vivo\docs\ANDROID_WHATSAPP_INSTALL_GUIDE.md
+C:\Desarrollos DEV daniel\app vivo\docs\ANDROID_UPDATE_AND_DATA_RETENTION.md
+C:\Desarrollos DEV daniel\app vivo\docs\ANDROID_OS_ENHANCEMENT_AUDIT.md
+C:\Desarrollos DEV daniel\app vivo\docs\ANDROID_LAUNCH_HANG_HOTFIX.md
+C:\Desarrollos DEV daniel\app vivo\docs\ANDROID_APK_FINAL_DELIVERY.md
+C:\Desarrollos DEV daniel\app vivo\docs\ANDROID_APK_CONVERSION_PLAN.md
+C:\Desarrollos DEV daniel\app vivo\DESIGN.md
+C:\Desarrollos DEV daniel\app vivo\DATA_FLOW.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\README_PROPOSED.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\_codex_backup_phase41_20260606-130543\TECH_DEBT_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\_codex_backup_phase41_20260606-130543\RISK_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\_codex_backup_phase41_20260606-130543\NATIVE_WINDOW_QA.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\_codex_backup_phase41_20260606-130543\ASTERIA_ROADMAP_CURRENT.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\_codex_backup_phase41_20260606-130543\ASTERIA_EXECUTION_ROADMAP_NEXT_10_PHASES.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\_codex_backup_phase41_20260606-130543\ASTERIA_90_PENDING_REVIEW.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\VALIDATION_GATE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\TYPE_SURFACE_SPLIT.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\TECH_DEBT_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\tauri-next-steps.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\STACK_DECISION_RECORD.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\smart-folders-architecture.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\RUNTIME_CAPABILITY_TRUTH_LAYER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\RISK_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\photo-organization-roadmap.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\PERFORMANCE_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\pbr-smart-folders.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\organizer-architecture.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\NATIVE_WINDOW_QA.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\MATERIAL_VAULT_CONSOLIDATION.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\material-vault-architecture.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\material-diagnostics.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\local-model-policy.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\JOB_LIFECYCLE_MODEL.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\integration-report.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\desktop-runtime.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\DEEP_TECHNICAL_AUDIT.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\CANONICAL_CRITERIA_LAYER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\ASTERIA_ROADMAP_CURRENT.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\ASTERIA_EXECUTION_ROADMAP_NEXT_10_PHASES.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\ASTERIA_90_PENDING_REVIEW.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\ASTERIA_60_STEP_EXECUTION_PLAN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\ASTERIA_30_STEP_EXECUTION_PLAN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\docs\3D_MATERIAL_PREVIEW_FOUNDATION.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\README.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\public\cv\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\app\applet\docs\tauri-next-steps.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_windows_native_20260606-225203\app\applet\docs\desktop-runtime.md
+C:\Desarrollos DEV daniel\app vivo\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\app vivo\CHANGELOG_ARCHIVE.md
+C:\Desarrollos DEV daniel\app vivo\CHANGELOG.md
+C:\Desarrollos DEV daniel\app vivo\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\src\packaging\SwitchClickSwiss.Package\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\_codex_backup_asteria_90_review_20260606-030200\TECH_DEBT_REGISTER.md
+C:\Desarrollos DEV daniel\nodia\nodia-app\docs\CHATBOT_WINDOW_IMPLEMENTATION_PLAN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\_codex_backup_asteria_90_review_20260606-030200\RISK_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\_codex_backup_asteria_90_review_20260606-030200\ASTERIA_ROADMAP_CURRENT.md
+C:\Desarrollos DEV daniel\ethyria-app\README.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\SMOKE_TEST.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\README.md
+C:\Desarrollos DEV daniel\ethyria-app\ETHYRIA_STATE_OF_TRUTH.md
+C:\Desarrollos DEV daniel\ethyria-app\design.md
+C:\Desarrollos DEV daniel\ethyria-app\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\ethyria-app\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\ethyria-app\AGENTS.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\visual\VISUAL_EXECUTION_LOG.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\visual\NORTH_SCREEN_ELEMENT_MAP.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\docs\REVISION_DOCUMENTOS_DEFINITIVOS.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\docs\RESUMEN_PROYECTO_SWITCH_CLICK_SWISS.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\docs\QA_VALIDATION_MVP.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\TECH_STACK.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\refactor\06_SAFE_RENAME_CHECKLIST.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\refactor\05_REFACTOR_PHASE_PLAN.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\refactor\04_PROPOSED_FOLDER_STRUCTURE.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\refactor\03_CSS_SENSITIVE_MAP.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\refactor\02_ASSET_NAMING_MAP.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\refactor\01_COMPONENT_NAMING_MAP.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\refactor\00_ELEMENT_INVENTORY.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\09_DEPLOYMENT_READINESS_AUDIT.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\08_NEXT_EXECUTION_PLAN.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\07_RISKS_AND_TECH_DEBT.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\06_INTERACTION_SYSTEM.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\05_ASSET_MAP.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\04_COMPONENT_MAP.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\03_VISUAL_SYSTEM.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\02_ARCHITECTURE.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\01_TECH_STACK.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\docs\00_PROJECT_SNAPSHOT.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\DESIGN.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\unibelands-3\AGENTS.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\docs\PLAN_ESTRATEGICO_VOYAGER_2026.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\docs\IPC_CONTRACT_MVP.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\docs\interfaz_gestos.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\docs\gui_example.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\docs\DEV_GUIDE.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\docs\architecture.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\docs\22_Switch click swiss.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\docs\visual\VISUAL_EXECUTION_LOG.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\docs\refactor\VISUAL_INSTRUCTIONS_PROTOCOL.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\docs\refactor\REFAC1_EXECUTION_LOG.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\docs\refactor\README.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\docs\refactor\BASELINE_VISUAL_01.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\docs\refactor\10_REFAC1_NAMING_RULES.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\docs\refactor\09_REFAC1_BATCH3_HUD_REPORT.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\docs\refactor\08_REFAC1_BATCH2_WORLD_ZONES_REPORT.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\unibelands3\docs\refactor\07_REFAC1_BATCH1_REPORT.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\ETHYRIA_STATE_OF_TRUTH.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\ETHYRIA_IMPLEMENTATION_STATUS_LOCK.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\BACKUP_RESTORE_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\AI_RUNTIME.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\AI_RULES.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\AGENTS.md
+C:\Desarrollos DEV daniel\TSK DISENO\Proyec[tdh]ia-tsk DEV\ACCESSIBILITY_MODES.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\por no considerar\pilll-proyectia\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\sidecars\python-ai\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\sidecars\python-ai\models\README.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\temario_checklist_antivillano.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\README.md
+C:\Desarrollos DEV daniel\pulsar-project\src-tauri\esaxx-rs-patch\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\por no considerar\interface casillas recordatorios\reminder-card\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_unification_20260605-021535\python-ai\README.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_unification_20260605-021535\docs\tauri-next-steps.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_unification_20260605-021535\docs\desktop-runtime.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_20260602-204414\README.md
+C:\Desarrollos DEV daniel\transparentimagen\VIDEO_SPRINT.md
+C:\Desarrollos DEV daniel\transparentimagen\TECH_STACK.md
+C:\Desarrollos DEV daniel\transparentimagen\README.md
+C:\Desarrollos DEV daniel\transparentimagen\PIPELINE_ROADMAP.md
+C:\Desarrollos DEV daniel\transparentimagen\PIPELINE_CHECKLIST.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\thriller.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\terror.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\superheroes.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\roster_definitivo_nodia.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\romance.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\postapocalitico.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\policiaco.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\_codex_backup_phase41_20260606-130543\TECH_DEBT_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\_codex_backup_phase41_20260606-130543\RISK_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\_codex_backup_phase41_20260606-130543\NATIVE_WINDOW_QA.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\_codex_backup_phase41_20260606-130543\ASTERIA_ROADMAP_CURRENT.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\_codex_backup_phase41_20260606-130543\ASTERIA_EXECUTION_ROADMAP_NEXT_10_PHASES.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\_codex_backup_phase41_20260606-130543\ASTERIA_90_PENDING_REVIEW.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\VALIDATION_GATE.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\TYPE_SURFACE_SPLIT.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\TECH_DEBT_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\tauri-next-steps.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\STACK_DECISION_RECORD.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\smart-folders-architecture.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\RUNTIME_CAPABILITY_TRUTH_LAYER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\RISK_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\photo-organization-roadmap.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\PERFORMANCE_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\pbr-smart-folders.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\organizer-architecture.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\NATIVE_WINDOW_QA.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\MATERIAL_VAULT_CONSOLIDATION.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\material-vault-architecture.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\material-diagnostics.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\local-model-policy.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\JOB_LIFECYCLE_MODEL.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\integration-report.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\desktop-runtime.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\DEEP_TECHNICAL_AUDIT.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\CANONICAL_CRITERIA_LAYER.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\ASTERIA_ROADMAP_CURRENT.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\ASTERIA_EXECUTION_ROADMAP_NEXT_10_PHASES.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\ASTERIA_90_PENDING_REVIEW.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\ASTERIA_60_STEP_EXECUTION_PLAN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\ASTERIA_30_STEP_EXECUTION_PLAN.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\docs\3D_MATERIAL_PREVIEW_FOUNDATION.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\policiaco\policiaco.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\noir_crimen.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\musical.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\misterio.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\historico_western.md
+C:\Desarrollos DEV daniel\transparentimagen\image_enhancer\image_enhancer\workflows\comfyui\README.md
+C:\Desarrollos DEV daniel\transparentimagen\image_enhancer\image_enhancer\README.md
+C:\Desarrollos DEV daniel\transparentimagen\DESIGN.md
+C:\Desarrollos DEV daniel\transparentimagen\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\TECH_STACK.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\STACK_ARCHITECTURE_EVALUATION_2026.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\Click switch swiss\carpeta de proyectos\desarrollo 2\PULSAR_DOCUMENTATION.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\app\applet\docs\tauri-next-steps.md
+C:\Desarrollos DEV daniel\transparentimagen\_codex_backup_asteria_vite_sqlite_20260607\app\applet\docs\desktop-runtime.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\por no considerar\archivos por reparar\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\_meta\questions-log.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\VOICE_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\_meta\owner.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\PROTOCOL.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\chatbot protectia\PROMPT_CONSTRUCCION_CHATBOT.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\chatbot protectia\informe_preparacion.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\chatbot protectia\design.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\docs\USER_DOCS.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\docs\TEST_PLAN.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\docs\TDD.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\docs\ROADMAP.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\docs\PRD.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\docs\GLOSSARY.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\docs\DESIGN_SPEC.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\CLAUDE.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\CHANGELOG.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Documentacion para la IA\15_proyectia.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\TROPHY_VISUAL_MANIFEST.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\TROPHY_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\TEST_MATRIX.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\src-tauri\resources\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\DOCS\TODO_LO_QUE_HACE_EL_PROYECTO_ANALISIS_Y_SUGERENCIAS.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\DOCS\RETRIVER_TRANSCRIPCION_CHATGPT.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\DOCS\RETRIVER_GDD_CHATGPT.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\DOCS\GDD_RETRIVER_VIAJE_HEROE.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\DOCS\GDD_RETRIVER_NARRATIVA_COMPLETA.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\DOCS\GDD_RETRIVER_GAMEPLAY.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\DOCS\GDD_RETRIVER_CANVAS_IDEA.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\DOCS\GDD_RETRIVER_ARCO_PERSONAJE.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\Proyectia tsk\DOCS\CONCEPT_SOFTWARE_NARRATIVA_ESCENAS.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\TECH_STACK.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\TASK_GRAPH_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\PLANLIST.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\chatbot protectia\analisis_referencias_chatbot.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\_codex_backup_asteria_90_review_20260606-030200\TECH_DEBT_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\_codex_backup_asteria_90_review_20260606-030200\RISK_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\_codex_backup_asteria_90_review_20260606-030200\ASTERIA_ROADMAP_CURRENT.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\_meta\questions-log.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\_meta\owner.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\SECURITY_4.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\SECURITY_3.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\SECURITY_2.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\SECURITY_1.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\SECURITY.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_99.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_98.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_97.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_96.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_95.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_94.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_93.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_92.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_91.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_90.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_9.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_89.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_88.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_87.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_86.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_85.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_84.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_83.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_82.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_81.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_80.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_8.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_79.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_78.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_77.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_76.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_75.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_74.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_73.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_72.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_71.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_70.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_7.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_69.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_68.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_67.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_66.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_65.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_64.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_63.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_62.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_61.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_60.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_6.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_59.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_58.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_57.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_56.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_55.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_54.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_53.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_52.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_51.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_50.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_5.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_49.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_48.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_47.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_46.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_45.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_44.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_43.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_42.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_41.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_40.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_4.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_39.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_38.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_37.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_36.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_35.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_34.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_33.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_32.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_31.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_303.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_302.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_301.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_300.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_30.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_3.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_299.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_298.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_297.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_296.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_295.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_294.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_293.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_292.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_291.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_290.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_29.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_289.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_288.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_287.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_286.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_285.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_284.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_283.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_282.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_281.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_280.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_28.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_279.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_278.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_277.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_276.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_275.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_274.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_273.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_272.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_271.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_270.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_27.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_269.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_268.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_267.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_266.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_265.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_264.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_263.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_262.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_261.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_260.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_26.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_259.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_258.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_257.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_256.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_255.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_254.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_253.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_252.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_251.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_250.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_25.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_249.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_248.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_247.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_246.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_245.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_244.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_243.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_242.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_241.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_240.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_24.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_239.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_238.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_237.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_236.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_235.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_234.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_233.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_232.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_231.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_230.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_23.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_229.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_228.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_227.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_226.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_225.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_224.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_223.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_222.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_221.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_220.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_22.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_219.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_218.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_217.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_216.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_215.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_214.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_213.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_212.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_211.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_210.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_21.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_209.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_208.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_207.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_206.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_205.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_204.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_203.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_202.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_201.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_200.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_20.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_2.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_199.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_198.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_197.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_196.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_195.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_194.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_193.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_192.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_191.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_190.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_19.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_189.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_188.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_187.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_186.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_185.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_184.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_183.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_182.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_181.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_180.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_18.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_179.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_178.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_177.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_176.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_175.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_174.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_173.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_172.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_171.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_170.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_17.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_169.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_168.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_167.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_166.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_165.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_164.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_163.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_162.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_161.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_160.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_16.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_159.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_158.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_157.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_156.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_155.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_154.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_153.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_152.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_151.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_150.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_15.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_149.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_148.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_147.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_146.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_145.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_144.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_143.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_142.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_141.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_140.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_14.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_139.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_138.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_137.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_136.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_135.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_134.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_133.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_132.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_131.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_130.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_13.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_129.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_128.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_127.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_126.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_125.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_124.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_123.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_122.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_121.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_120.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_12.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_119.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_118.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_117.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_116.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_115.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme_114.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_113.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_112.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_111.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_110.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_11.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_109.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_108.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_107.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_106.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_105.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_104.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_103.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_102.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_101.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_100.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_10.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\README_1.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\readme.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\PROTOCOL.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_9.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_8.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_7.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_6.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_5.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_4.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\license_3.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_2.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_13.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_12.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_11.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\license_10.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE_1.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\LICENSE.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\docs\USER_DOCS.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\docs\TEST_PLAN.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\docs\TDD.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\docs\ROADMAP.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\docs\PRD.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\docs\GLOSSARY.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\docs\DESIGN_SPEC.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CLAUDE.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_9.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_8.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_7.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_6.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_5.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_4.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_3.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_21.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_20.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_2.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_19.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_18.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_17.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_16.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_15.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_14.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_13.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\TECH_STACK.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\changelog_12.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_11.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_10.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG_1.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\CHANGELOG.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\59_Focus.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\documentacion\15_proyectia.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\proyectia-local\AGENTS.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\remotion-project\README.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\UnibeLands-3\comportamiento.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\fantasia.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\epico.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\drama.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\deportivo.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\decisiones finales nodia.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\copia data nodia.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\comedia.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\ciencia_ficcion.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\belico.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\aventura.md
+C:\Desarrollos DEV daniel\nodia\nodia investigaciones\accion.md
+C:\Desarrollos DEV daniel\nodia\ICON_INVENTORY.md
+C:\Desarrollos DEV daniel\nodia\docs nodia\PRD_SereneSymphony.md
+C:\Desarrollos DEV daniel\nodia\docs nodia\NODIA_PRD_AAA_2026-05-15.md
+C:\Desarrollos DEV daniel\nodia\docs nodia\NODIA_DOCUMENTACION_EJECUCION_Y_ESTADO_2026-05-14.md
+C:\Desarrollos DEV daniel\nodia\docs nodia\DOCUMENTACION_SECCION_NODOS_NODIA_2026-05-15.md
+C:\Desarrollos DEV daniel\nodia\docs nodia\DOCUMENTACION_NODIA_MODO_ARCO_2026-05-15.md
+C:\Desarrollos DEV daniel\nodia\docs nodia\DOCUMENTACION_NODIA_MODO_ARCO_2026-05-14.md
+C:\Desarrollos DEV daniel\nodia\docs nodia\DOCUMENTACION_IMPLEMENTACION_PANTALLA_INICIO_NODIA_2026-05-14.md
+C:\Desarrollos DEV daniel\nodia\DESIGN_ICONS.md
+C:\Desarrollos DEV daniel\nodia\DESIGN.md
+C:\Desarrollos DEV daniel\nodia\CODEX_PROMPT_SHORTCUTS.md
+C:\Desarrollos DEV daniel\nodia\Claude-Visualizar datos narrativos de personajes.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\NATIVE_QA.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\IMPLEMENTATION_STATUS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\DOCUMENTATION_INDEX.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\AGENTS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\README.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\QA_WINDOWS_RELEASE_CANDIDATE_RC1.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PREFERENCES_REPAIR.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_UNIFIED_NEUMORPHISM.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_THEME_RESTORATION.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_THEME_ICONS_RESTORED.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_THEME_ENGINE_ARCHITECTURE.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_OMNIPRESENT_NEUMORPHISM.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_NEUMORPHIC_THEME_CONSISTENCY.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_NEUMORPHIC_MATERIAL_SYSTEM.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_MAX_TACTILE_NEUMORPHISM.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_LIGHT_THEME_HARDCODED_COLORS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_LIGHT_THEMES_SATURATION.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_LIGHTBULB_THEME.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_GLOBAL_COLORIMETRY_IDENTITY.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_DASHBOARD_SECTIONS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_AESTHETICS_REPAIR.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\PATCH_RC1_AESTHETICS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE9_RCKBYTE_CORE.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE8_COMPLETA.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE6_COMPLETA.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE30_RELEASE_CANDIDATE_CONFIGURATION_AUDIT.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE28_DESKTOP_RUNTIME_PERMISSIONS_SECURITY_CENTER.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE27_DESKTOP_BUILD_HARDENING_WINDOWS_INSTALLER_QA.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE26_GOOGLE_AI_STUDIO_PRODUCT_POLISH_QA.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE25_OPEN_RCKBYTE_FROM_WINDOWS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE24_DESKTOP_SHELL_WINDOWS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE23_PROFESSIONAL_RCKBYTE_PACKAGING.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE22_MULTI_WINDOW_MINIAPP_RUNTIME.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE21_MINI_APPS_TEMPLATE_STORE.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE20_GOOGLE_AI_STUDIO_ZIP_COMPATIBILITY.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE19_AI_SELF_HEALING_FIX_PIPELINE.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE18_PREVIEW_PREFLIGHT_DIAGNOSTICS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE17_DEPENDENCY_AUTO_RESOLVER.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE16_PASTE_TO_MINIAPP_FLOW.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE15_MINIAPP_LIBRARY_LAUNCHER.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE14_AI_AGENT_E2E_HARDENING.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE13_AI_MINIAPP_BUILDER_AGENT.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE12_MINIAPP_WINDOW_RUNTIME.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE11_RCKBYTE_VIRTUAL_MOUNT.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\FASE10_RCKBYTE_UI_FLOW.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\design.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\AUDIT.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\ARCHITECTURE_MIGRATION_REPORT.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\history\ANALISIS_ARQUITECTURA.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\docs\DEVELOPMENT_OVERVIEW.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\DESIGN.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\DECISIONS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\BUILD_ISOLATION_CHAIN_PLAN_2026-06-16.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\ARCHITECTURE_MIGRATION_REPORT.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\sidecars\python-ai\README.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\sidecars\python-ai\models\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\src\features\voice\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\src\features\trophies\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\src\features\start-context\README.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\ethyria-app\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\LAUNCHER_ACTION_REGISTRY.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\IMPLEMENTATION_STATUS.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\FILE_INTAKE_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\EVENT_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\ETHYRIA_ACTION_PLANNER.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\DESIGN.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\COMPONENT_RULES.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\Click switch swiss\ARCHIVO_PERSONAL_Y_LEGACY\42_Switch-click-swiss-main\README.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\README.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\ethyria-app\DESIGN.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\VOICE_PIPELINE.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\video_analysis.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\TROUBLESHOOTING.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\TEST_MATRIX.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\TAURI_COMMAND_REGISTRY.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\STRATEGIC_PLANNER_SYSTEM.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\SECURITY_TEST_MATRIX.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\SECURITY_PRIVACY.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\RELEASE_CHECKLIST.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\PROJECT_WORKSPACE_SYSTEM.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\PROJECT_INTELLIGENCE_SYSTEM.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\OLLAMA_LOCAL_SETUP.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\MEMORY_SYSTEM.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\LOCAL_TTS_PROVIDERS.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\DATABASE_MIGRATIONS.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\CLAUDE-INSTRUCTIONS.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\AGENT_SYSTEM.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\07-OS-COMMANDS.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\06-AUDIO-PIPELINE.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\05-AI-BRAIN.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\04-FRONTEND-REACT-TS.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\03-BACKEND-RUST-TAURI.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\02-ENVIRONMENT-SETUP.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\01-ARCHITECTURE.md
+C:\Desarrollos DEV daniel\Ethyria\Ethyria\docs\00-MASTER-BLUEPRINT.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\src\features\quick-capture\README.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\Click switch swiss\03_KNOWLEDGE_&_RESOURCES\Documentation\Legacy\README_legacy_fox.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\Click switch swiss\03_KNOWLEDGE_&_RESOURCES\Documentation\Legacy\interfaz_gestos_legacy.md
+C:\Desarrollos DEV daniel\Master dev click switch swiss\Click switch swiss\03_KNOWLEDGE_&_RESOURCES\Documentation\Legacy\gui_example_legacy.md
+C:\Desarrollos DEV daniel\julia\UI_UX_y_Navegacion\Especificaciones_UI_UX_y_Navegacion.md
+C:\Desarrollos DEV daniel\julia\Satelites\Especificaciones_Satelites_y_Red_Social.md
+C:\Desarrollos DEV daniel\julia\Satelites\3_Conexion_Software_y_Satelites_Julia.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\services\prompts\SYSTEM_PROMPT.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\SECURITY_MODEL.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\SECURITY_AUDIT.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\RUNTIME_INSPECTOR_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\REMINDER_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\README.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\QUICK_CAPTURE_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\BIBLIA_PROYECTIA_DEFINITIVA.md
+C:\Desarrollos DEV daniel\julia\Recursos_Originales_y_Chats\Proyecto Julia_ Un Ecosistema de Conocimiento para la Era Digital.md
+C:\Desarrollos DEV daniel\julia\Recursos_Originales_y_Chats\Proyecto Julia_ Sistema Inteligente de Gestión de Conocimiento y Memoria Viva.md
+C:\Desarrollos DEV daniel\julia\Recursos_Originales_y_Chats\Julia_Project_Detailed_Blueprint_Part3.md
+C:\Desarrollos DEV daniel\julia\Recursos_Originales_y_Chats\Julia_Project_Detailed_Blueprint_Part2.md
+C:\Desarrollos DEV daniel\julia\Recursos_Originales_y_Chats\Julia_Project_Detailed_Blueprint_Part1.md
+C:\Desarrollos DEV daniel\julia\Recursos_Originales_y_Chats\Claude- ⭐ Revisión y análisis de archivo.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Blueprint_Vision\pixel_voxel_manifesto.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Blueprint_Vision\ios_studio_data_foundation.md
+C:\Desarrollos DEV daniel\TSK DISENO\info vieja\15_Proyectia\Blueprint_Vision\ios_creative_engine_prd.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_AESTHETICS.md
+C:\Desarrollos DEV daniel\Retriver\PROYECTO_RETRIVER_RESUMEN_EJECUTIVO.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE9_RCKBYTE_CORE.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE8_COMPLETA.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE6_COMPLETA.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE30_RELEASE_CANDIDATE_CONFIGURATION_AUDIT.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE28_DESKTOP_RUNTIME_PERMISSIONS_SECURITY_CENTER.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE27_DESKTOP_BUILD_HARDENING_WINDOWS_INSTALLER_QA.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE26_GOOGLE_AI_STUDIO_PRODUCT_POLISH_QA.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE25_OPEN_RCKBYTE_FROM_WINDOWS.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE24_DESKTOP_SHELL_WINDOWS.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE23_PROFESSIONAL_RCKBYTE_PACKAGING.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE22_MULTI_WINDOW_MINIAPP_RUNTIME.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE21_MINI_APPS_TEMPLATE_STORE.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE20_GOOGLE_AI_STUDIO_ZIP_COMPATIBILITY.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE19_AI_SELF_HEALING_FIX_PIPELINE.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE18_PREVIEW_PREFLIGHT_DIAGNOSTICS.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE17_DEPENDENCY_AUTO_RESOLVER.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE16_PASTE_TO_MINIAPP_FLOW.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE15_MINIAPP_LIBRARY_LAUNCHER.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE14_AI_AGENT_E2E_HARDENING.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE13_AI_MINIAPP_BUILDER_AGENT.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE12_MINIAPP_WINDOW_RUNTIME.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE11_RCKBYTE_VIRTUAL_MOUNT.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\FASE10_RCKBYTE_UI_FLOW.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\design.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\AUDIT.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\ARCHITECTURE_MIGRATION_REPORT.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\ANALISIS_ARQUITECTURA.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\PROTECTED_AREAS.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\PRIORITY_ENGINE_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\NOTIFICATION_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\MEMORY_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\MEMORY_ISLANDS_SYSTEM.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\CV 2026\Resumen_Consolidado.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\CV 2026\resumenchatgpt.md
+C:\Desarrollos DEV daniel\Reactbite\ARCHITECTURE_MIGRATION_REPORT.md
+C:\Desarrollos DEV daniel\julia\Procesamiento_IA\Especificaciones_Procesamiento_IA.md
+C:\Desarrollos DEV daniel\julia\planjupiter.md
+C:\Desarrollos DEV daniel\julia\Negocios_y_Roadmap\Plan_Financiero_y_Monetizacion.md
+C:\Desarrollos DEV daniel\julia\Negocios_y_Roadmap\Especificaciones_Negocios_y_Roadmap.md
+C:\Desarrollos DEV daniel\julia\Negocios_y_Roadmap\2_Continuidad_Comparativa_Atlas_vs_Julia.md
+C:\Desarrollos DEV daniel\julia\Negocios_y_Roadmap\1_Analisis_Competitivo_AtlasWorkspace.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PREFERENCES_REPAIR.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_UNIFIED_NEUMORPHISM.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_THEME_RESTORATION.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_THEME_ICONS_RESTORED.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_THEME_ENGINE_ARCHITECTURE.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_OMNIPRESENT_NEUMORPHISM.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_NEUMORPHIC_THEME_CONSISTENCY.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_NEUMORPHIC_MATERIAL_SYSTEM.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_MAX_TACTILE_NEUMORPHISM.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_LIGHT_THEME_HARDCODED_COLORS.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_LIGHT_THEMES_SATURATION.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_LIGHTBULB_THEME.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_GLOBAL_COLORIMETRY_IDENTITY.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_DASHBOARD_SECTIONS.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\PATCH_RC1_AESTHETICS_REPAIR.md
+C:\Desarrollos DEV daniel\julia\Jupiter\sistema_jupiter.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\_codex_backup_phase41_20260606-130543\TECH_DEBT_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\_codex_backup_phase41_20260606-130543\RISK_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\_codex_backup_phase41_20260606-130543\NATIVE_WINDOW_QA.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\_codex_backup_phase41_20260606-130543\ASTERIA_ROADMAP_CURRENT.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\_codex_backup_phase41_20260606-130543\ASTERIA_EXECUTION_ROADMAP_NEXT_10_PHASES.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\_codex_backup_phase41_20260606-130543\ASTERIA_90_PENDING_REVIEW.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\VALIDATION_GATE.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\TYPE_SURFACE_SPLIT.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\TECH_DEBT_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\tauri-next-steps.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\STACK_DECISION_RECORD.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\smart-folders-architecture.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\RUNTIME_CAPABILITY_TRUTH_LAYER.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\RISK_REGISTER.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\photo-organization-roadmap.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\PERFORMANCE_GUARDRAILS.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\pbr-smart-folders.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\organizer-architecture.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\NATIVE_WINDOW_QA.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\MATERIAL_VAULT_CONSOLIDATION.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\material-vault-architecture.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\material-diagnostics.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\local-model-policy.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\JOB_LIFECYCLE_MODEL.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\integration-report.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\desktop-runtime.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\DEEP_TECHNICAL_AUDIT.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\CANONICAL_CRITERIA_LAYER.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\ASTERIA_ROADMAP_CURRENT.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\ASTERIA_EXECUTION_ROADMAP_NEXT_10_PHASES.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\ASTERIA_90_PENDING_REVIEW.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\ASTERIA_60_STEP_EXECUTION_PLAN.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\ASTERIA_30_STEP_EXECUTION_PLAN.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\docs\3D_MATERIAL_PREVIEW_FOUNDATION.md
+C:\Desarrollos DEV daniel\julia\Jupiter\Especificaciones_Jupiter_y_Grafo_3D.md
+C:\Desarrollos DEV daniel\julia\Jupiter\1_Investigacion_Astronomica_Jupiter.md
+C:\Desarrollos DEV daniel\julia\Julia Mars\Julia_Enterprise_Proposal.md
+C:\Desarrollos DEV daniel\julia\Julia Mars\Claude-🌎Julia mars .md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\app\applet\docs\tauri-next-steps.md
+C:\Desarrollos DEV daniel\transparentimagen\asteria\app\applet\docs\desktop-runtime.md
+C:\Desarrollos DEV daniel\transparentimagen\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\transparentimagen\AGENTS.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\README.md
+C:\Desarrollos DEV daniel\Reactbite\nueva implementacion\💬reactbite_18-may\QA_WINDOWS_RELEASE_CANDIDATE_RC1.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\CV 2026\CV documentacion\Finales 2026\Documentos_Fusionados.md
+C:\Desarrollos DEV daniel\julia\Ingesta_Universal\Especificaciones_Ingesta_Universal.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\BACKUP_RESTORE_SYSTEM.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\AI_RUNTIME.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\AI_RULES.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\AGENTS.md
+C:\Desarrollos DEV daniel\TSK DISENO\proyectia-tsk\ACCESSIBILITY_MODES.md
+C:\Desarrollos DEV daniel\julia\Fundamentos\Que_es_Julia.md
+C:\Desarrollos DEV daniel\julia\Fundamentos\Preguntas_y_Dudas_Concepto.md
+C:\Desarrollos DEV daniel\julia\Fundamentos\Indice_Maestro_Arquitectura.md
+C:\Desarrollos DEV daniel\julia\Fundamentos\Guia_Conceptual_Julia_Explicacion_Sencilla.md
+C:\Desarrollos DEV daniel\julia\Fundamentos\2_Investigacion_Mitologia_Etimologia_Julia.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\README.md
+C:\Desarrollos DEV daniel\Reactbite\reactbite-fusion\REACTBITE_REPAIR_IMPLEMENTATION_PLAN_2026-06-14.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\CV 2026\CV definitivo 2027\05_CV_AI_Creative_Tech_Human_AI_UX.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\CV 2026\CV definitivo 2027\04_CV_Enterprise_Fintech_GovTech_UX.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\CV 2026\CV definitivo 2027\03_CV_Game_UI_Artist_Amber.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\CV 2026\CV definitivo 2027\02_CV_Nearshore_Tech_UX_UI_Product_Designer.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\CV 2026\CV definitivo 2027\01_CV_LinkedIn_Perfil_Publico.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\CV 2026\CV definitivo 2027\00_CV_Maestro_Interno.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\🪐_07_julia.md
+C:\Desarrollos DEV daniel\Desarrollo CV borderlands3\CV 2026\claude.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\_meta\questions-log.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\_meta\owner.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\PROTOCOL.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\docs\USER_DOCS.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\docs\TEST_PLAN.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\docs\TDD.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\docs\ROADMAP.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\docs\PRD.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\docs\GLOSSARY.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\docs\DESIGN_SPEC.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\CLAUDE.md
+C:\Desarrollos DEV daniel\julia\datos viejos\05_Documentacion_IA\CHANGELOG.md
+C:\Desarrollos DEV daniel\app vivo\AGENTS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\TECNOLOGIA_NARRATIVA_PROYECTOS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\PERSONAJES\DOSSIER_PERSONAJES.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\PERSONAJES\DOSSIER_ANTAGONISTAS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\PERFILES_PERSONAJES.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\CAPITULO_01_PROLOGO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\MANIFESTO_Y_GUIA_NARRATIVA.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\LINEA_DE_TIEMPO_MAESTRA.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\⭐⭐⭐ Julia Master.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\Índice General del Sistema JULIA.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\UX_Julia_v2.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\UX de JULIA.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\todo.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\SECURITY.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\README_NATIVE.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\README.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\Prompt_Inicio_v2.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\Prompt para la Pantalla de Inicio de JULIA.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\LICENSE.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\JULIA_Project_Documentation.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\DISCLAIMER.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\componentes_julia.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\1-36-5-Evaluaci_n_tipogr_fica_logo.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\00_MAPA_DEL_PROYECTO.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\0-58-43-Generaci_n_de_c_digo_Julia.md
+C:\Desarrollos DEV daniel\julia\datos viejos\01_Documentacion\0-46-4-___serach_julia.md
+C:\Desarrollos DEV daniel\julia\Arquitectura_y_Seguridad\Especificaciones_Arquitectura_y_Seguridad.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\DOCS\TODO_LO_QUE_HACE_EL_PROYECTO_ANALISIS_Y_SUGERENCIAS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\DOCS\RETRIVER_TRANSCRIPCION_CHATGPT.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\DOCS\CONCEPT_SOFTWARE_NARRATIVA_ESCENAS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Workspace_Produccion_retriever\03_UI_Diseno\GDD_RETRIVER_PANTALLA_INICIO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_9_MARGEN.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_8_LA_CITA.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_7_SOLO_TU.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_6_PAPEL_DE_BANO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_5_EL_CUIDADOR.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_4_MEDIACION.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_3_EL_VIRUS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_2_EL_LABERINTO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_1_EL_BUG.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_12_TAMBIEN_YO_DE_TI.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_11_SOMOS_UN_EQUIPO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Novela\DRAFTS\CAPITULO_10_LA_FIEBRE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Misoul\DOCS\PROPUESTA_FUTURISTA_MISOUL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Misoul\DOCS\PRD_MISOUL_V1.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Misoul\DOCS\ARQUITECTURA_TECNICA_MISOUL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Misoul\DOCS\ANALISIS_REPOS_GITHUB.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Misoul\RECURSOS_INTEGRACION_IA.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\REGLAMENTO_Y_CONCEPTO_JUEGO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\README.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\VISION_SOFTWARE_RETRIVER.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Workspace_Produccion_retriever\01_Direccion_Arte\GDD_RETRIVER_ART_DIRECTION.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\Pixvoxia_Canvas_Pro\DESIGN.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\Pixvoxia documentacion\diccionario_funciones_pivoxia.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\Pixvoxia documentacion\analisis_maquetado_pivoxia.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\Pixvoxia documentacion\ios_studio_data_foundation.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\Pixvoxia documentacion\ios_creative_engine_prd.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\Pixvoxia documentacion\optimizacion_flujos_pivoxia.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\Pixvoxia documentacion\pixel_voxel_manifesto.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\SISTEMA_GESTION_RELACIONAL_TRELLO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\PATRONES_DANIEL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\PATRONES_PAREJA.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\PATRONES_DAVID.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\PLAN_ESTRATEGICO_RelOS_TRELLO.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\iOS_App_Blueprint\pixel_voxel_manifesto.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\PROTOCOLOS_INTERACCION.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\iOS_App_Blueprint\optimizacion_flujos_pivoxia.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\ANALISIS_ACIERTOS_Y_FORTALEZAS.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\iOS_App_Blueprint\ios_studio_data_foundation.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\iOS_App_Blueprint\diccionario_funciones_pivoxia.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\iOS_App_Blueprint\ios_creative_engine_prd.md
+C:\Desarrollos DEV daniel\21_Pixvoxia\iOS_App_Blueprint\analisis_maquetado_pivoxia.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\ANALISIS_FALLAS_INTERACCION.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\_meta\questions-log.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\_meta\owner.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\analisis-innovacion-ui.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\comparativa_david_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\especificacion-definitiva.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\entendimiento-y-stack.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\ejecutar2.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\ejecutar.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\linea_de_tiempo_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\informe_relacional_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\guia-buenas-practicas.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\perfil_ultra_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\Master_CV_David_Sanchez.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\02_DAVID_SANCHEZ_PAREJA\DOCS\README.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\PRD_MISOUL_V1.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\perfil_ultra_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\perfilprofesional.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV_ESTRATEGIA_2026_DANIEL_UNIBE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV_FINAL_DEFINITIVO_DANIEL_UNIBE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\Documentacion para la IA\05_CV.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\fotos perfil\image_prompt.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\fotos perfil\image_analysis.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\ARQUITECTURA_TECNICA_MISOUL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\Dragon_Alebrije\instructivo_maestro_dragon_alebrije.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\Dragon_Alebrije\dudas_y_preguntas_sin_resolver.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\Dragon_Alebrije\contexto_completo_dragon_alebrije.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\Dragon_Alebrije\analisis_detallado_dragon_alebrije.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\docs\USER_DOCS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\docs\TEST_PLAN.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\docs\TDD.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\docs\ROADMAP.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\docs\PRD.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\docs\GLOSSARY.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\docs\DESIGN_SPEC.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\frascos\LOGO_DOWNLOAD_GUIDE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\PROTOCOL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\PROPUESTA_FUTURISTA_MISOUL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\PRD_PROYECTDHIA_v0.1.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\PRD_NutriApp_LiquidGlass.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\RECORD_2026-04-26_12-53.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\ProyectDHIA_Vision.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\DOCS_PERSONAL\perfil_ultra_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\timelines\timeline_unificado.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\timelines\timeline_reconocimientos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\DOCS_PERSONAL\perfil_ultra_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\timelines\timeline_experiencia.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\timelines\timeline_educacion.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\DOCS_PERSONAL\perfil_psicologico_conflictos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\DOCS_PERSONAL\perfil_daniel_profundo.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\DOCS_PERSONAL\informe_relacional_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\DOCS_PERSONAL\comparativa_david_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\source_texts\📓 CUADERNO DE PROYECTO_ GEMINI ARCADE PORTFOLIO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\_ARCHIVE\source_texts\📓 CUADERNO DE PROYECTO_ GEMINI ARCADE PORTFOLIO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\source_texts\ESTRUCTURA FINAL - PORTAFOLIO INTERACTIVO DANIEL (5 SECCIONES).md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\_ARCHIVE\source_texts\ESTRUCTURA FINAL - PORTAFOLIO INTERACTIVO DANIEL (5 SECCIONES).md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\source_texts\Documento Maestro del Proyecto _Gemini Arcade Portfolio_.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\_ARCHIVE\source_texts\Documento Maestro del Proyecto _Gemini Arcade Portfolio_.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\source_texts\4-34-32-Qu__incluir_en_un_CV.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\_ARCHIVE\source_texts\4-34-32-Qu__incluir_en_un_CV.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\google_dev_informe.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\evaluacion_antigravity_google.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\google_repos_300.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\guia_google_simple.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\PROYECTOS\PLAN_MAESTRO_MULTIDISCIPLINARIO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\PLAN_MAESTRO_MULTIDISCIPLINARIO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CHANGELOG.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\AUDITORIA_CV_VOYAGER.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CLAUDE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\antigravity_data\task.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\antigravity_data\retriever_task.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\antigravity_data\plan_estrategico_proyectos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\antigravity_data\perfil_david_ia.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\antigravity_data\implementation_plan.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\antigravity_data\google_repos_300.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\antigravity_data\google_dev_informe.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\go\antigravity_data\evaluacion_antigravity_google.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\CHATS_RAW\perfil_ultra_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\CHATS_RAW\perfil_ultra_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\CHATS_RAW\perfil_psicologico_conflictos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\CHATS_RAW\perfil_daniel_profundo.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\CHATS_RAW\linea_de_tiempo_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\CHATS_RAW\informe_relacional_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CRONICA_RAW_DATA\CHATS_RAW\comparativa_david_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\04_ARCHIVO_DE_EVIDENCIA\PLANES_Y_REGLAS\PRESUPUESTO_REMODELACION_TABLAROCA.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\Analisis_Ultra_Detallado.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\INVENTARIO_MAESTRO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\03_RETRIEVER_GAME\REGLAMENTO_Y_CONCEPTO_JUEGO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\COPIA_PROYECTO_CONSOLIDADO\04_ARCHIVO_DE_EVIDENCIA\PLANES_Y_REGLAS\PRESUPUESTO_REMODELACION_TABLAROCA.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\INVENTARIO_MAESTRO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\COPIA_PROYECTO_CONSOLIDADO\03_EXPEDIENTES_PERSONAJES\perfil_ultra_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\COPIA_PROYECTO_CONSOLIDADO\03_EXPEDIENTES_PERSONAJES\perfil_ultra_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\COPIA_PROYECTO_CONSOLIDADO\03_EXPEDIENTES_PERSONAJES\perfil_psicologico_conflictos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\COPIA_PROYECTO_CONSOLIDADO\03_EXPEDIENTES_PERSONAJES\perfil_daniel_profundo.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\COPIA_PROYECTO_CONSOLIDADO\03_EXPEDIENTES_PERSONAJES\informe_relacional_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\COPIA_PROYECTO_CONSOLIDADO\03_EXPEDIENTES_PERSONAJES\comparativa_david_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\18_Desktop_Descargas_KeyDocs\PROTOCOL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\18_Desktop_Descargas_KeyDocs\PRD_PROYECTDHIA_v0.1.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\18_Desktop_Descargas_KeyDocs\PRD_NutriApp_LiquidGlass.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\18_Desktop_Descargas_KeyDocs\PRD_NutriApp_LiquidGlass (1).md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\18_Desktop_Descargas_KeyDocs\Descargas.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\18_Desktop_Descargas_KeyDocs\AGENTS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\COPIA_PROYECTO_CONSOLIDADO\02_EL_SISTEMA\linea_de_tiempo_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\_ARCHIVE\old_projects\portafolio prueba 2\cv_daniel_final.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\02_MISOUL_USERS\DOCS\PROPUESTA_FUTURISTA_MISOUL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\17_Claude_Desktop_Analysis\PROMPTS_PERSONALIZADOS_CV.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\17_Claude_Desktop_Analysis\PROMPTS_JUNIOR_TECH_ESPAÑOL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\17_Claude_Desktop_Analysis\LCAO_Implementation_Guide.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\17_Claude_Desktop_Analysis\LCAO_Executive_Summary.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\17_Claude_Desktop_Analysis\CV_OPTIMIZER_INSTRUCTION_SYSTEM.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\17_Claude_Desktop_Analysis\CV_JUNIOR_TECH_ESPAÑOL_GUIA.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\17_Claude_Desktop_Analysis\Claude-Preparación perfil estrella .md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\17_Claude_Desktop_Analysis\Claude-Habilidades especializadas para CV corporativo 2026.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\17_Claude_Desktop_Analysis\Claude-Especialización en CV de éxito.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\17_Claude_Desktop_Analysis\Claude-Análisis de CV para Amber Studios.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\USER_DOCS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\TEST_PLAN.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\TDD.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\ROADMAP.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\questions-log.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\PROTOCOL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\PRD.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\perfilprofesional.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\owner.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\LINKEDIN_OPTIMIZATION_KIT.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\image_analysis.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\GLOSSARY.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\dudas_e_inquietudes.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\DESIGN_SPEC.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\CV_DANIEL_UNIBE_V3_FINAL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\CV_DANIEL_UNIBE_V2.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\CV_DANIEL_UNIBE_CONSOLIDADO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\CLAUDE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\02_Todo_Daniel_Docs\CHANGELOG.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\16_Retriever_Desktop_Raw\perfil_ultra_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\16_Retriever_Desktop_Raw\perfil_ultra_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\16_Retriever_Desktop_Raw\perfil_psicologico_conflictos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\16_Retriever_Desktop_Raw\perfil_daniel_profundo.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\16_Retriever_Desktop_Raw\linea_de_tiempo_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\16_Retriever_Desktop_Raw\informe_relacional_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\16_Retriever_Desktop_Raw\comparativa_david_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\_ARCHIVE\old_projects\portafolio prueba 2\amber-portfolio\README.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\00_DATABASE_CENTRAL\PROYECTOS\PLAN_MAESTRO_MULTIDISCIPLINARIO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\timelines\timeline_unificado.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\timelines\timeline_reconocimientos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\timelines\timeline_experiencia.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\timelines\timeline_educacion.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\00_DATABASE_CENTRAL\03_EXPEDIENTES_PERSONAJES\perfil_ultra_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\00_DATABASE_CENTRAL\03_EXPEDIENTES_PERSONAJES\perfil_ultra_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\00_DATABASE_CENTRAL\03_EXPEDIENTES_PERSONAJES\perfil_psicologico_conflictos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\00_DATABASE_CENTRAL\03_EXPEDIENTES_PERSONAJES\perfil_daniel_profundo.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\00_DATABASE_CENTRAL\03_EXPEDIENTES_PERSONAJES\informe_relacional_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\00_DATABASE_CENTRAL\03_EXPEDIENTES_PERSONAJES\comparativa_david_daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\PROMPTS_PERSONALIZADOS_CV.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\PROMPTS_JUNIOR_TECH_ESPAÑOL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\PRD_PROYECTDHIA_v0.1.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\linkedin_corporate_skill.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\LCAO_Implementation_Guide.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\LCAO_Executive_Summary.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\CV_OPTIMIZER_INSTRUCTION_SYSTEM.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\CV_JUNIOR_TECH_ESPAÑOL_GUIA.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\Claude-Preparación perfil estrella .md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\Claude-Habilidades especializadas para CV corporativo 2026.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\Claude-Especialización en CV de éxito.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\todo de claude\Claude-Análisis de CV para Amber Studios.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\PRD_NutriApp_LiquidGlass.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\linkedin_corporate_skill.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\Desktop.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\00_DATABASE_CENTRAL\02_EL_SISTEMA\linea_de_tiempo_daniel_david.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\Proyecto OPPO\ejecutar.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\Proyecto OPPO\analisis-innovacion-ui.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\05_Daniel_CV_Textos\timelines\timeline_unificado.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\05_Daniel_CV_Textos\timelines\timeline_reconocimientos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\05_Daniel_CV_Textos\timelines\timeline_experiencia.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\05_Daniel_CV_Textos\timelines\timeline_educacion.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\15_Desktop_Proyectos\AUDITORIA_CV_VOYAGER.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\widget\README.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\Videos\AGENT_GUIDE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\07_Daniel_IA_Docs\05_CV.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\widget\docs\DESIGN_SPEC.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\05_Daniel_CV_Textos\source_texts\📓 CUADERNO DE PROYECTO_ GEMINI ARCADE PORTFOLIO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\05_Daniel_CV_Textos\source_texts\ESTRUCTURA FINAL - PORTAFOLIO INTERACTIVO DANIEL (5 SECCIONES).md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\05_Daniel_CV_Textos\source_texts\Documento Maestro del Proyecto _Gemini Arcade Portfolio_.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\05_Daniel_CV_Textos\source_texts\4-34-32-Qu__incluir_en_un_CV.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\LINKEDIN_OPTIMIZATION_KIT.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\portafolio\ESTRUCTURA FINAL - PORTAFOLIO INTERACTIVO DANIEL (5 SECCIONES).md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\03_Oliver_Chat\perfil_oliver\perfil_psico_astro.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\03_Oliver_Chat\perfil_oliver\perfil_profesional.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\03_Oliver_Chat\perfil_oliver\inventario_media.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\03_Oliver_Chat\perfil_oliver\intereses_y_estilo_vida.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\03_Oliver_Chat\perfil_oliver\INDICE_MAESTRO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\03_Oliver_Chat\perfil_oliver\identidad.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\03_Oliver_Chat\perfil_oliver\hallazgos_internet.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\03_Oliver_Chat\perfil_oliver\compatibilidad_daniel_oliver.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\03_Oliver_Chat\perfil_oliver\analisis_no_verbal.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\portafolio\README.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\portafolio\PREREQUISITES.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\todo.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\WINDOWS_STORE_GUIDE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\datos nuevos openai\chat_history_completo.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\datos nuevos openai\chatgeneral.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\Proyecto OPPO\miApp\README.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\JULIA-EXIT.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\efficiency_plan.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\Daniel VS\readme2.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\Daniel VS\README.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\CV_DANIEL_UNIBE_V3_FINAL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\CV_DANIEL_UNIBE_V2.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\CV_DANIEL_UNIBE_CONSOLIDADO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\Metadatos\AGENT_GUIDE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\OPPO_Estrategia_Ventas\Documentacion\walkthrough.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\WINDOWS_STORE_PUBLISH.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\PROPUESTA_DISENO_JUPITER.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\PRIVACY_POLICY.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\OPPO_Estrategia_Ventas\Documentacion\task.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\PILOT_USER_TEST_CHECKLIST.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\OPPO_Estrategia_Ventas\Documentacion\implementation_plan.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\PILOT_QA_MATRIX.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\PILOT_MVP_STATUS.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\PILOT_DEMO_SCRIPT.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\PILOT_COMMERCIAL_PLAN.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\PACKAGING_DESKTOP.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\JUPITER_SPOT_INTERACTION_QA.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\JOVIAN_AGENTS.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\docs\coverdesign.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\design.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\DECISIONS.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\DATA_MODEL_DRAFT.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\portafolio actualizado 2025\README.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\TECH_STACK.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\Imagenes\AGENT_GUIDE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\runbook_import.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\README_master.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\PUNTO_1_FUNDAMENTOS_DETALLADO.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\Publicaciones para Redes Sociales - Perfil de Daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\profile_long.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\Logros y Reconocimientos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\ESTRUCTURA FINAL - PORTAFOLIO INTERACTIVO DANIEL (5 SECCIONES).md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\Especificación de la Interfaz de Usuario (UI Spec) para Google AI Studio App.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\DIAGRAMA DE ESTRUCTURA CORREGIDO - PORTAFOLIO INTERACTIVO DANIEL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\DIAGRAMA DE ESTRUCTURA - PORTAFOLIO INTERACTIVO DANIEL.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\Daniel_ Arquitecto de Experiencias Inteligentes.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\cv_daniel_onepage.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\cv_daniel_full.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\cv_daniel_final.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\Cursos y Diplomados.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\BASE_DATOS_FINAL_5_PUNTOS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\03_Perfil_Proyectos_Daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\02_Perfil_Emocional_Humano_Daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\01_Perfil_Profesional_Daniel.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\003_Proyectos_y_Desarrollos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\002_Identidad_Personal.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\investigacion daniel\001_Perfil_Profesional.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\Audios\AGENT_GUIDE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Master_CV_David_Sanchez.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\VENTA_speech_demostracion.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\VENTA_guia_rapida.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\VENTA_ficha_bolsillo.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\VENTA_capacitacion_asesores.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\BLUEPRINT_arquitectura_interna.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\frascos\LOGO_DOWNLOAD_GUIDE.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\10_variantes_modelos.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\09_resistencia_durabilidad.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\08_conectividad_sensores.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\07_software_coloros.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\06_bateria_carga.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\05_rendimiento_procesador.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\04_sistema_camaras.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\03_pantalla_display.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\02_diseno_estetica.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\01_especificaciones_generales.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\oppo\oppo reno 14\00_INDICE_TEMAS.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\Proyecto OPPO\especificacion-definitiva.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\Proyecto OPPO\entendimiento-y-stack.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\Proyecto OPPO\ejecutar2.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\dudas_e_inquietudes.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\iconosreact\icons_react.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\CODEX_GUARDRAILS.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\ARCHITECTURE.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\AI_ARCHITECTURE.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\AGENTS.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\00_MAPA_DEL_PROYECTO.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\SECURITY_AND_DISTRIBUTION.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\README_NATIVE.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\README.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\NATIVE_WINDOWS_MIGRATION_PLAN.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\MIGRATION_PLAN.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\MIGRATION_PIPELINE.md
+C:\Desarrollos DEV daniel\julia\1JuliaDEV\PRIVACY_POLICY.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\07_SISTEMAS_INGENIERIA\Boveda_Legacy\retriever\go\BOVEDA_DATOS\01_Todo_David\Todo Oppo\Proyecto OPPO\guia-buenas-practicas.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\curriculum 1\curriculum 4\README.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\curriculum 1\curriculum1\CVDANIELUNIBE-main\README.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\curriculum 1\curriculum3\Portfolio-n3--main\README.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\curriculum 1\Curriculum2\Portafolio-version-2-main\README.md
+C:\Desarrollos DEV daniel\Retriver\Retriever\Relacion analisis\Daniel\CV\desarrollo mas actual\curriculum 1\Curriculum2\Portafolio-version-2-main\links_misiones.md
